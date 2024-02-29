@@ -35,4 +35,32 @@ var greeting = "Hello, playground"
 ///    Collections: Array <Element>, Dictionary<Key: Hashable, Value>, Set <Element: Hashable>
 ///
 ///
+///
+///
+/// */
+
+
+var str = "Hello, playgrounnd"
+
+str = "Hello, swift"
+
+
+var nextYear: Int = 0
+var bodyTemp: Float = 0
+var hasPet: Bool = true
+
+///*
+///
+///
+///
+///   var arrayOfIntS: Array<Int> = []
+///
+///   var arrayOfString: [String] = []
+///
+///
+///   var dictionaryOfCapitalsByCountry: Dictionary<String,String> = [:]
+///
+///
+///
+///
 /// */
